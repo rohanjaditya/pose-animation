@@ -1,7 +1,6 @@
 # pose-animation
 
-## CS688 Web Analytics and Mining Term Project - Spring 2022
-Boston University
+## CS688 Web Analytics and Mining Term Project - Spring 2022 (Boston University)
 
 Key tasks:
 
