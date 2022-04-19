@@ -6,6 +6,9 @@ Boston University
 Key tasks:
 
 Visualization of human pose 
+
 Estimation of the angle between joints
+
 Identification of moving joints
+
 Classification of exercise
